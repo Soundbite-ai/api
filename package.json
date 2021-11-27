@@ -1,0 +1,48 @@
+{
+  "name": "@soundbite/apidocs",
+  "author": "Soundbite Development Team",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Soundbite-ai/api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Soundbite-ai/api/issues"
+  },
+  "homepage": "https://github.com/Soundbite-ai/api#readme",
+  "keywords": [
+    "soundbite",
+    "soundbite.ai"
+  ],
+  "dependencies": {
+    "@types/node": "12.20.37",
+    "@types/react": "17.0.37",
+    "@types/react-dom": "17.0.11",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-scripts": "4.0.3",
+    "typescript": "4.4.4"
+  },
+  "scripts": {
+    "start": "set PORT=4001 && react-scripts start",
+    "build": "react-scripts build"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
