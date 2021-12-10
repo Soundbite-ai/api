@@ -1,6 +1,6 @@
 {
-  "name": "soundbite-api-docs",
-  "version": "0.1.0",
+  "name": "feedwidgetdemo",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@soundbite/api": "file:packages/soundbite-api-1.0.0.tgz",
