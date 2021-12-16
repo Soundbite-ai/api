@@ -1,6 +1,6 @@
 ![Soundbite Logo](docs/images/logo-long.png)
 
-Visit our website at [www.Soundbite.ai](https://www.soundbite.ai)
+Visit our website at [www.Soundbite.ai](https://www.soundbite.ai) or e-mail us at [Support@Soundbite.Freshdesk.Com](mailto:Support@Soundbite.Freshdesk.Com).
 
 Soundbite is a secure communications platform for building short-form audio experiences. At its core, our platform is web-api that can be leveraged to build highly customized
 audio solutions. We provide a core set of NPM packages to help web developers interact with our
