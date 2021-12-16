@@ -1,4 +1,4 @@
-[Home](../../../readme.md)
+[Home](../../../README.md)
 # NPM Packages v1.0.0
 
 Click on the links below to download the .tgz files for the Soundbite NPM packages.

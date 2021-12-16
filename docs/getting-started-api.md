@@ -1,4 +1,4 @@
-[Home](../readme.md)
+[Home](../README.md)
 # API Getting Started Guide
 
 Welcome to the Soundbite API Getting Started Guide.  This guide is intended to quickly familiarize 

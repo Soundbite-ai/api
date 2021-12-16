@@ -1,4 +1,4 @@
-[Home](../readme.md)
+[Home](../README.md)
 # Widget Documentation
 
 Soundbite Widgets provide a quick and easy way for developers to embed Soundbite functionality
@@ -105,4 +105,4 @@ initialized then the orgRoute, sessions, and currentUser properties must be popu
 
 |Name|Description|
 |-----------|---|
-|[Feed Widget](../examples/feedwidget/readme.md)|Example demonstrating how to work with the Feed Widget.|
+|[Feed Widget](../examples/feedwidget/README.md)|Example demonstrating how to work with the Feed Widget.|

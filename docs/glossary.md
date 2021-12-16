@@ -1,4 +1,4 @@
-[Home](../readme.md)
+[Home](../README.md)
 # Glossary
 
 This document clarifies the words and ideas found in the Soundbite platform.

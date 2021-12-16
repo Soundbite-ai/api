@@ -1,4 +1,4 @@
-[Home](../readme.md)
+[Home](../README.md)
 ## Using the AXIOS HTTP Adapter
 
 Soundbite provides an out-of-the-box HTTP Adapter implementation for the [Axios library](https://www.npmjs.com/package/axios). 
