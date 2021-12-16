@@ -2,8 +2,7 @@
 
 Visit our website at [www.Soundbite.ai](https://www.soundbite.ai)
 
-Soundbite is a secure communications platform for building short-form audio engagement for 
-audiences. At its core, our platform is web-api that can be leveraged to build highly customized
+Soundbite is a secure communications platform for building short-form audio experiences. At its core, our platform is web-api that can be leveraged to build highly customized
 audio solutions. We provide a core set of NPM packages to help web developers interact with our
 platform, and a series of fully functional UI widgets that can easily be embedded into an existing
 application.
