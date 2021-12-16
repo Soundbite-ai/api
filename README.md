@@ -25,9 +25,13 @@ Our core NPM packages provide not only a Typesript client library for connecting
 
 [NPM Packages v1.0.0](releases/npm/v1.0.0/notes.md)
 
-# SharePoint Web Part Packages
+These are the same packages we use to make our standalone admin app called "Soundbite Studio", so anything we can do our partners can do as well.
 
-[v1.0.0.1]
+# SharePoint Web Part Packages
+We also offer a package that bundles out widgets into a SharePoint web parts. This provides drag & drop editing capabilities for organization running M365, bringing Soundbite to the places employees already work rather than forcing them to use one more app. Please contact us for more information at our [support email at Support@Soundbite.Freshdesk.Com](mailto:Support@Soundbite.Freshdesk.Com).
+
+# Microsoft Teams App
+We also offer a Microsoft Teams app that is built with these same widgets. If you would like to partner on your own Microsoft Teams app that features short-form audio or podcasting, reach out to our [support email at Support@Soundbite.Freshdesk.Com](mailto:Support@Soundbite.Freshdesk.Com).
 
 # Contact Us
 If you have any questions or comments on our libraries, wish to contribute, or reach out regarding technology partnership, please reach out to our [support email at Support@Soundbite.Freshdesk.Com](mailto:Support@Soundbite.Freshdesk.Com) and we'll get back to you quickly. Alternatively, open an issue on this project and we'll be keeping an eye out for you. Thank you!
