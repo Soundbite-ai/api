@@ -23,7 +23,7 @@ platform with your solution, as well as documentation to help you get started de
 
 # NPM Packages
 
-[NPM Packages v1.0.1](releases/npm/v1.0.1/notes.md)
+[NPM Packages v1.0.0](releases/npm/v1.0.0/notes.md)
 
 # SharePoint Web Part Packages
 

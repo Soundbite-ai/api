@@ -1,0 +1,26 @@
+.ButtonRow button {
+    margin-left: 88px;
+    width: 200px;
+    background-color: #98BBFF;
+}
+
+.DataEntryRow {
+    margin: 3px;
+}
+
+.DataEntryRow div {
+    font-weight: bold;
+    font-size: 10pt;
+    width: 85px;
+    float:left;
+    padding-top:5px;
+}
+
+.DataEntryRow input {
+    margin-right: 5px;
+    width:400px;
+}
+
+.Instructions {
+    padding: 10px;
+}
