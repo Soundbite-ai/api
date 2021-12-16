@@ -21,6 +21,7 @@ platform with your solution, as well as documentation to help you get started de
 - [Glossary](docs/glossary.md)
 
 # NPM Packages
+Our core NPM packages provide not only a Typesript client library for connecting to the API, but a complete data store system implemented in [mobx](https://mobx.js.org/README.html), and UI widgets in React. NOTE: our packages use [React version 16](https://reactjs.org/blog/2017/09/26/react-v16.0.html) to preserve compatibility with Microsoft's SPFx framework.
 
 [NPM Packages v1.0.0](releases/npm/v1.0.0/notes.md)
 
@@ -28,3 +29,5 @@ platform with your solution, as well as documentation to help you get started de
 
 [v1.0.0.1]
 
+# Contact Us
+If you have any questions or comments on our libraries, wish to contribute, or reach out regarding technology partnership, please reach out to our [support email at Support@Soundbite.Freshdesk.Com](mailto:Support@Soundbite.Freshdesk.Com) and we'll get back to you quickly. Alternatively, open an issue on this project and we'll be keeping an eye out for you. Thank you!
