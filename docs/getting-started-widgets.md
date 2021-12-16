@@ -105,4 +105,4 @@ initialized then the orgRoute, sessions, and currentUser properties must be popu
 
 |Name|Description|
 |-----------|---|
-|[Feed Widget](../examples/feedwidget/README.md)|Example demonstrating how to work with the Feed Widget.|
+|[Feed Widget](../examples/feedwidget)|Example demonstrating how to work with the Feed Widget.|
