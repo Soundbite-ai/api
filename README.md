@@ -34,9 +34,9 @@ We also offer a package that bundles out widgets into a SharePoint web parts. Th
 We also offer a Microsoft Teams app that is built with these same widgets. If you would like to partner on your own Microsoft Teams app that features short-form audio or podcasting, reach out to our [support email at Support@Soundbite.Freshdesk.Com](mailto:Support@Soundbite.Freshdesk.Com).
 
 **Teams Application Downloads** - Please note that you must have an enterprise organization setup with Soundbite in order to use the Teams application.
-- [v1.0.0 - Production Environment](releases/teamsApp/v1.0.0/Teams.App.usw.zip)
-- [v1.0.0 - Preview Environment](releases/teamsApp/v1.0.0/Teams.App.usw.zip)
-- [v1.0.0 - Test Environment](releases/teamsApp/v1.0.0/Teams.App.usw.zip)
+- [v1.0.0 - Production Environment](https://github.com/Soundbite-ai/api/raw/main/releases/teamsApp/v1.0.0/Teams.App.usw.zip)
+- [v1.0.0 - Preview Environment](https://github.com/Soundbite-ai/api/raw/main/releases/teamsApp/v1.0.0/Teams.App.preview.zip)
+- [v1.0.0 - Test Environment](https://github.com/Soundbite-ai/api/raw/main/releases/teamsApp/v1.0.0/Teams.App.test.zip)
 
 # Contact Us
 If you have any questions or comments on our libraries, wish to contribute, or reach out regarding technology partnership, please reach out to our [support email at Support@Soundbite.Freshdesk.Com](mailto:Support@Soundbite.Freshdesk.Com) and we'll get back to you quickly. Alternatively, open an issue on this project and we'll be keeping an eye out for you. Thank you!
