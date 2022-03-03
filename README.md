@@ -38,5 +38,8 @@ We also offer a Microsoft Teams app that is built with these same widgets. If yo
 - [v1.0.0 - Preview Environment](https://github.com/Soundbite-ai/api/raw/main/releases/teamsApp/v1.0.0/Teams.App.preview.zip)
 - [v1.0.0 - Test Environment](https://github.com/Soundbite-ai/api/raw/main/releases/teamsApp/v1.0.0/Teams.App.test.zip)
 
+**Teams Application Deployment Instructions**
+For detailed instructions on deploying the Soundbite Teams App in your organization, please see our [Teams App Deployment Guide](https://github.com/Soundbite-ai/api/raw/main/docs/teams/TeamsAppDeploymentGuide.pdf).
+
 # Contact Us
 If you have any questions or comments on our libraries, wish to contribute, or reach out regarding technology partnership, please reach out to our [support email at Support@Soundbite.Freshdesk.Com](mailto:Support@Soundbite.Freshdesk.Com) and we'll get back to you quickly. Alternatively, open an issue on this project and we'll be keeping an eye out for you. Thank you!
